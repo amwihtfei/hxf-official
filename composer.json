@@ -3,6 +3,7 @@
   "description": "官网类型的通常包",
   "type": "library",
   "license": "MIT",
+  "minimum-stability": "1.0.2",
   "authors": [
     {
       "name": "xiaofeng",

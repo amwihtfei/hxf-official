@@ -17,7 +17,7 @@
             $this->publishes([
                 __DIR__ . '/views'               => base_path('resources/views'),
                 __DIR__ . '/config/official.php' => config_path('official.php'),
-            ]);
+            ], 'public');
         }
 
         /**
