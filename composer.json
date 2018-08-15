@@ -20,10 +20,10 @@
       "hxf\\official\\": "src/"
     }
   },
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "extra": {
     "branch-alias": {
-      "dev": "1.0.7-dev"
+      "stable": "1.0.7"
     }
   }
 }
