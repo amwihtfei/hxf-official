@@ -1,0 +1,18 @@
+{
+  "name": "hxf/official",
+  "description": "官网类型的通常包",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "xiaofeng",
+      "email": "man302015@qq.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "hxf\\official\\": "src/"
+    }
+  }
+}
