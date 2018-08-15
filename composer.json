@@ -23,7 +23,7 @@
   "minimum-stability": "dev",
   "extra": {
     "branch-alias": {
-      "dev": "1.0.7"
+      "dev": "1.0.7-dev"
     }
   }
 }
