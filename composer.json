@@ -3,7 +3,6 @@
   "description": "官网类型的通常包",
   "type": "library",
   "license": "MIT",
-  "minimum-stability": "1.0.2",
   "authors": [
     {
       "name": "xiaofeng",
@@ -19,6 +18,12 @@
   "autoload": {
     "psr-4": {
       "hxf\\official\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "extra": {
+    "branch-alias": {
+      "dev-master": "4.2-dev"
     }
   }
 }
